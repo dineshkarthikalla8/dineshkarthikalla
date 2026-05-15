@@ -44,15 +44,7 @@
 
 # 📌 Featured Projects
 
-## 🚀 FreshHire ATS Platform
 
-✅ AI Resume Analyzer  
-✅ Resume Upload System  
-✅ ATS Score Generator  
-✅ React Frontend + Django Backend  
-✅ Firebase Authentication
-
----
 
 ## 🗳️ Online Voting System
 
